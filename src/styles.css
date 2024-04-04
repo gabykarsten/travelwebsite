@@ -253,4 +253,17 @@ footer a {
   .embed {
     aspect-ratio: 16 / 9;
   }
+
+  .img-responsive {
+    display: block;
+    margin: 0 auto;
+  }
+
+  main h3 {
+    text-align: center;
+  }
+
+  main h2 {
+    text-align: center;
+  }
 }
